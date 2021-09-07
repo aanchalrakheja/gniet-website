@@ -3593,12 +3593,12 @@
   animation-delay: 5s;
 }
 
-.animated.fast {
+.animated.fat {
   -webkit-animation-duration: 800ms;
   animation-duration: 800ms;
 }
 
-.animated.faster {
+.animated.fater {
   -webkit-animation-duration: 500ms;
   animation-duration: 500ms;
 }
